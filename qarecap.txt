@@ -1,3 +1,0 @@
-Question-and-Answer Recap Repository
-
-This folder shall contain QA from Revature training program.
